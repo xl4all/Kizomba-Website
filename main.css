@@ -1,5 +1,5 @@
-h1 	
-	{
+h1
+ {		
 	text-align: center;	
 	color: white;
 	}
@@ -21,13 +21,26 @@ body
 	background-color: black; 
 	}
 
+
+#pic {
+/*	width: ;*/
+	height: 600px;
+	/*height: 100%;*/
+	/*position: center;*/
+	}
+
+.img {
+	position: center;
+
+	}
+
 p 	
 	{ 
 	color: white;		
 	}
 
-.container	
+/*.container	
 	{
 	height: 800px;
     width: 100%;		
-	}
+	}*/
